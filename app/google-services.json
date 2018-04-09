@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "634907756967",
+    "firebase_url": "https://vaad-de946.firebaseio.com",
+    "project_id": "vaad-de946",
+    "storage_bucket": "vaad-de946.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634907756967:android:641701c0c22ad254",
+        "android_client_info": {
+          "package_name": "nechama.hackeru.vaad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634907756967-iem8ollu3oc9cmk8906rs10h4vb512lm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nechama.hackeru.vaad",
+            "certificate_hash": "5edc23512ead2b648bceeae173739f38c7d92727"
+          }
+        },
+        {
+          "client_id": "634907756967-e3kk7ga4ke646cqas2u7k7bgti2ch8f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH7y1CIJRHXrDxsYSdg3Kt_UT9yyzdLKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634907756967-e3kk7ga4ke646cqas2u7k7bgti2ch8f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
